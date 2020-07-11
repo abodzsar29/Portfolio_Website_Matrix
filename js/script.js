@@ -157,8 +157,8 @@ $(document).ready(function () {
 $(document).ready(function () {
 
   var $svg = $('#Layer_699').drawsvg({
-    duration: 300,
-    stagger: 80
+    duration: 600,
+    stagger: 150
   });
 
   $('#view').one('click', function () {
