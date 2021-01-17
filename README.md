@@ -1,4 +1,4 @@
-Initial_Portfolio_Project - NOTE: THE SITE HAS NOT BEEN MADE RESPONSIVE FOR SMALLER SCREENS
+Initial_Portfolio_Project - NOTE: THE SITE HAS NOT BEEN MADE RESPONSIVE FOR SCREENS OF SIZES OTHER THAN 1920 * 1080
 
 This repository contains all of the source files which I have created or used to make a matrix themed portfolio website.
 
